@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tư duy thiết kế: Strategic Design - Tactical Design
+title: Tư duy thiết kế\: Strategic Design \- Tactical Design
 ---
 Hello anh em. Lâu lắm rồi mình mới có thời gian quay lại viết một bài chia sẻ. Strategic Design - Tactical Design là kiến thức mà mình nghĩ tất cả anh em Người Viết Mã đều cần thiết để chú ý đến. Không chỉ riêng những bạn đang làm các vị trí có ảnh hướng đến kiến trúc level cao của dự án như Software Architect. Kiến thức này còn phù hợp cho các bạn Developer hay là bất kỳ ai đang muốn thiết kế cái bất kỳ thứ gì, dù lớn hay bé.
 
